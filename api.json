@@ -1,14 +1,7 @@
 {
     "clientVersionCode": 1,
-    "clientSampVersionCode": 1,
     "gameFilesVersionCode": 1,
-    "URL_GAME_FILES": "http://154.84.153.138/mobile/game.zip",
+    "URL_GAME_FILES": "https://www.dropbox.com/scl/fi/98c4v6u3rjxhokysw61t9/gg.zip?rlkey=oiefjofltyypc9v0thex1gu6b&st=9ie2loj5&dl=1",
     "URL_GAME_FILES_UPD": "http://154.84.153.138/mobile/files_upd.zip",
-    "URL_VK": "https://vk.com/",
-    "URL_DISCORD": "https://discord.gg/",
-    "URL_YOUTUBE": "",
-    "URL_FORUM": "",
-    "URL_DONATE": "",
-    "URL_CLIENT": "http://154.84.153.138/mobile/Launcher.apk",
-    "URL_CLIENTSAMPAPK": "http://154.84.153.138/mobile/client.apk"
+    "URL_CLIENT": "http://154.84.153.138/mobile/Launcher.apk"
 }
