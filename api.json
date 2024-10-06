@@ -1,0 +1,14 @@
+{
+    "clientVersionCode": 1,
+    "clientSampVersionCode": 1,
+    "gameFilesVersionCode": 1,
+    "URL_GAME_FILES": "http://154.84.153.138/mobile/game.zip",
+    "URL_GAME_FILES_UPD": "http://154.84.153.138/mobile/files_upd.zip",
+    "URL_VK": "https://vk.com/",
+    "URL_DISCORD": "https://discord.gg/",
+    "URL_YOUTUBE": "",
+    "URL_FORUM": "",
+    "URL_DONATE": "",
+    "URL_CLIENT": "http://154.84.153.138/mobile/Launcher.apk",
+    "URL_CLIENTSAMPAPK": "http://154.84.153.138/mobile/client.apk"
+}
